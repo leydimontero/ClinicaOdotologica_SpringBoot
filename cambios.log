@@ -1,0 +1,167 @@
+[2023-08-18 21:57:09] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-18 21:59:40] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-18 22:02:07] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-18 22:03:45] [ INFO ] [PacienteDAOH2:158] inicio de operacion de : buscado por Email:  jorge.pereyra@digitalhouse.com
+[2023-08-18 22:04:54] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-18 22:05:16] [ INFO ] [PacienteDAOH2:158] inicio de operacion de : buscado por Email:  jorge.pereyra@digitalhouse.com
+[2023-08-18 22:05:18] [ INFO ] [PacienteDAOH2:158] inicio de operacion de : buscado por Email:  jorge.pereyra@digitalhouse.com
+[2023-08-18 22:06:43] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-18 22:07:47] [ INFO ] [PacienteDAOH2:158] inicio de operacion de : buscado por Email:  jorge.pereyra@digitalhouse.com
+[2023-08-18 22:07:47] [ INFO ] [DomicilioDAOH2:52] inicio de operacion de : 
+[2023-08-22 19:44:21] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-22 20:56:14] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-22 21:57:00] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-22 21:59:22] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-22 22:00:44] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-22 22:03:47] [ INFO ] [BD:30] datos de prueba cargados exitosamente
+[2023-08-22 22:05:46] [ INFO ] [PacienteDAOH2:60] inicio de operacion de : BUSCADO 
+[2023-08-22 22:05:47] [ INFO ] [DomicilioDAOH2:52] inicio de operacion de : 
+[2023-08-22 22:06:30] [ INFO ] [PacienteDAOH2:60] inicio de operacion de : BUSCADO 
+[2023-08-22 22:06:30] [ INFO ] [DomicilioDAOH2:52] inicio de operacion de : 
+[2023-08-22 22:07:56] [ INFO ] [PacienteDAOH2:60] inicio de operacion de : BUSCADO 
+[2023-08-22 22:51:43] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-22 22:52:19] [ INFO ] [PacienteDAOH2:60] inicio de operacion de : BUSCADO 
+[2023-08-22 22:52:19] [ INFO ] [DomicilioDAOH2:52] inicio de operacion de : 
+[2023-08-22 22:52:19] [ INFO ] [OdontologoDAOH2:48] inicio de operacion de Buscar un odontologo : 2
+[2023-08-22 22:54:28] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-22 22:54:50] [ INFO ] [OdontologoDAOH2:48] inicio de operacion de Buscar un odontologo : 1
+[2023-08-23 16:13:13] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-23 17:01:30] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-23 17:19:07] [ INFO ] [PacienteDAOH2:25] inicio de operaciones guarado de un paciente
+[2023-08-23 17:19:07] [ INFO ] [DomicilioDAOH2:19] inicio de operacion de : guardado de un domicilio 
+[2023-08-23 17:21:34] [ INFO ] [PacienteDAOH2:60] inicio de operacion de : BUSCADO 
+[2023-08-26 14:18:05] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 14:19:54] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 14:21:54] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 14:21:57] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 14:29:58] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 14:55:26] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 14:56:04] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 14:56:13] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 14:59:20] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 14:59:37] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:01:57] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:02:10] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:05:01] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:05:22] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:06:21] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:06:41] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:06:55] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:09:42] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:24:00] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:25:18] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:31:54] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:32:09] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:34:40] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:36:01] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 15:36:13] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 15:38:26] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 19:02:46] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 19:04:08] [ INFO ] [OdontologoDAOH2:20] inicio de operacion de Guardado de un Odontologo : null
+[2023-08-26 19:04:17] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 19:07:53] [ INFO ] [BD:34] datos de prueba cargados exitosamente
+[2023-08-26 19:08:57] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 19:09:11] [ INFO ] [OdontologoDAOH2:20] inicio de operacion de Guardado de un Odontologo : D167
+[2023-08-26 19:09:13] [ INFO ] [OdontologoDAOH2:120] inicio de operacion de buscado de todos los odontologos
+[2023-08-26 19:13:20] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:16:39] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:16:48] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-26 19:17:06] [ INFO ] [OdontologoDAOH2:21] inicio de operacion de Guardado de un Odontologo : D467
+[2023-08-26 19:17:08] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-26 19:32:46] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:33:03] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-26 19:33:38] [ INFO ] [OdontologoDAOH2:21] inicio de operacion de Guardado de un Odontologo : D987
+[2023-08-26 19:33:41] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-26 19:51:15] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:51:29] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-26 19:53:06] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:54:47] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:54:56] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 19:54:56] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 19:54:56] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 19:57:42] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:57:57] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 19:57:57] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 19:57:57] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 19:58:28] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-26 19:58:34] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 19:58:34] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 19:58:34] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 19:59:11] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 19:59:26] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 19:59:26] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 19:59:26] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:23:21] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:23:56] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 20:23:56] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:23:56] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:26:10] [ INFO ] [PacienteDAOH2:25] inicio de operaciones guarado de un paciente
+[2023-08-26 20:26:10] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-26 20:26:19] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 20:26:19] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:26:19] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:27:03] [ INFO ] [PacienteDAOH2:25] inicio de operaciones guarado de un paciente
+[2023-08-26 20:27:03] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-26 20:27:46] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 20:27:46] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:27:46] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:43:22] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:47:23] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:47:43] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 20:47:43] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:47:43] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:50:22] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:51:28] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:54:11] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:54:33] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:55:21] [ INFO ] [PacienteDAOH2:25] inicio de operaciones guarado de un paciente
+[2023-08-26 20:55:22] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-26 20:56:53] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-26 20:57:47] [ INFO ] [PacienteDAOH2:25] inicio de operaciones guarado de un paciente
+[2023-08-26 20:57:47] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-26 20:58:24] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 20:58:24] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:58:24] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 20:58:24] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:11] [ INFO ] [PacienteDAOH2:25] inicio de operaciones guarado de un paciente
+[2023-08-26 21:01:11] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de : guardado de un domicilio 
+[2023-08-26 21:01:19] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 21:01:19] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:19] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:19] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:19] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:46] [ INFO ] [PacienteDAOH2:151] inicio de operacion de : buscado de todos los pacientes 
+[2023-08-26 21:01:46] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:46] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:46] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-26 21:01:46] [ INFO ] [DomicilioDAOH2:53] inicio de operacion de : 
+[2023-08-28 13:29:58] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 13:31:50] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 13:32:17] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 13:34:44] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 13:35:44] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 13:36:11] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 13:36:28] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 13:36:40] [ INFO ] [OdontologoDAOH2:21] inicio de operacion de Guardado de un Odontologo : D467
+[2023-08-28 13:36:43] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 13:43:37] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 13:58:46] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 14:01:33] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 14:03:01] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 14:03:27] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:03:42] [ INFO ] [OdontologoDAOH2:21] inicio de operacion de Guardado de un Odontologo : D467
+[2023-08-28 14:03:44] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:04:44] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 14:05:49] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:05:58] [ INFO ] [OdontologoDAOH2:21] inicio de operacion de Guardado de un Odontologo : D167
+[2023-08-28 14:06:03] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:09:26] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:11:36] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:11:48] [ INFO ] [OdontologoDAOH2:21] inicio de operacion de Guardado de un Odontologo : D467
+[2023-08-28 14:11:51] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:14:16] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-28 14:14:34] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 14:15:00] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-28 14:15:09] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos
+[2023-08-29 16:49:01] [ INFO ] [BD:35] datos de prueba cargados exitosamente
+[2023-08-29 16:54:12] [ INFO ] [OdontologoDAOH2:143] Actualizar lista de odontologos

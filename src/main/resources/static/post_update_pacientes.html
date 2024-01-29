@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="./index.html">Clinica Odontologica</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Gestion Pacientes
+          </a>
+          <ul class="dropdown-menu">
+              <li id="link-alta" style="display:none"><a class="dropdown-item" href="./post_update_pacientes.html">Alta</a></li>
+              <li><a class="dropdown-item" href="./get_all_pacientes.html">Lista</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Gestion Odontologos
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="./post_update_odontologos.html">Alta</a></li>
+            <li><a class="dropdown-item" href="./get_all_odontologos.html">Lista</a></li>
+
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Gestion Turnos
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="./post_update_turnos.html">Alta</a></li>
+            <li><a class="dropdown-item" href="./get_all_turnos.html">Lista</a></li>
+
+          </ul>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="p-3 container-fluid">
+  <div class="p-3 rounded bg-danger-subtle">
+    <h3 id="titulo-formulario">Agregar Paciente</h3>
+    <form id="form_paciente">
+        <div class="form-group row">
+          <div class="col-6">
+            <label class="control-label" for="nombre">Nombre:</label>
+            <input type="text" class="form-control" id="nombre"
+                   placeholder="Ingrese el nombre"
+                   name="nombre" required></input>
+          </div>
+          <div class="col-6">
+            <label class="control-label" for="apellido">Apellido:</label>
+            <input type="text" class="form-control" id="apellido"
+                   placeholder="Ingrese el apellido"
+                   name="apellido" required></input>
+          </div>
+
+        </div>
+
+        <div class="row form-group">
+          <div class="col-6">
+
+            <label class="control-label" for="cedula">Cedula:</label>
+            <input type="text" class="form-control" id="cedula"
+                   placeholder="Ingrese la cedula"
+                   name="cedula" required></input>
+
+          </div>
+
+          <div class="col-6">
+
+
+              <label class="control-label" for="fechaIngreso">Fecha de Ingreso:</label>
+              <input type="date" class="form-control" id="fechaIngreso"
+                     placeholder="Ingrese la fecha de ingreso"
+                     name="fechaIngreso" required></input>
+
+
+          </div>
+        </div>
+
+        <div class="row form-group">
+          <div class="col-12 col-md-6">
+            <label class="control-label" for="email">Correo:</label>
+            <input type="email" class="form-control" id="email"
+                   placeholder="Ingrese el correo"
+                   name="email" required></input>
+          </div>
+        </div>
+        <h4 class="mt-2">Domicilio</h4>
+        <div class="row form-group">
+            <div class="col-12 col-md-3">
+              <label class="control-label" for="calle">Calle:</label>
+              <input type="text" class="form-control" id="calle"
+                     placeholder="Ingrese la calle"
+                     name="calle" required></input>
+            </div>
+            <div class="col-12 col-md-3">
+              <label class="control-label" for="numero">Nùmero:</label>
+              <input type="number" class="form-control" id="numero"
+                     placeholder="Ingrese el nùmero"
+                     name="numero" required></input>
+            </div>
+            <div class="col-12 col-md-3">
+              <label class="control-label" for="localidad">Localidad:</label>
+              <input type="text" class="form-control" id="localidad"
+                     placeholder="Ingrese la localidad"
+                     name="localidad" required></input>
+            </div>
+            <div class="col-12 col-md-3">
+              <label class="control-label" for="provincia">Provincia:</label>
+              <input type="text" class="form-control" id="provincia"
+                     placeholder="Ingrese la provincia"
+                     name="provincia" required></input>
+            </div>
+        </div>
+
+
+
+
+
+
+
+      <button type="button" class="btn btn-danger mt-3" id="btn-form-paciente">Guardar</button>
+    </form>
+    <div id="response" style="display:none; margin-top:10px">
+    </div>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<script type="text/javascript" src="js/post_update_pacientes.js"></script>
+</body>
